@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: GunData
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: M1049049
+Implementation-Vendor-Id: com.mindtree
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://projects.spring.io/spring-boot/WeaponData/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
